@@ -1,0 +1,70 @@
+[{
+  "_id": "MED-501",
+  "tarjetaProfesional": "TP-884521",
+  "nombres": "Lucía",
+  "apellidos": "Pérez Gómez",
+  "especialidad": "Medicina Interna",
+  "sedeAsignada": "Norte",
+  "contacto": {
+    "telefono": "3009998877",
+    "correo": "lucia.perez@healthsys.com"
+  },
+  "horarioAtencion": "Lunes a Viernes 07:00 - 15:00",
+  "activo": true
+},
+{
+  "_id": "MED-502",
+  "tarjetaProfesional": "TP-776342",
+  "nombres": "Carlos",
+  "apellidos": "Restrepo Marín",
+  "especialidad": "Pediatría",
+  "sedeAsignada": "Sur",
+  "contacto": {
+    "telefono": "3108887766",
+    "correo": "carlos.restrepo@healthsys.com"
+  },
+  "horarioAtencion": "Lunes a Viernes 08:00 - 16:00",
+  "activo": true
+},
+{
+  "_id": "MED-503",
+  "tarjetaProfesional": "TP-992134",
+  "nombres": "Mariana",
+  "apellidos": "Gómez Henao",
+  "especialidad": "Medicina Interna",
+  "sedeAsignada": "Centro",
+  "contacto": {
+    "telefono": "3207776655",
+    "correo": "mariana.gomez@healthsys.com"
+  },
+  "horarioAtencion": "Martes a Sábado 06:00 - 14:00",
+  "activo": true
+},
+{
+  "_id": "MED-504",
+  "tarjetaProfesional": "TP-665412",
+  "nombres": "Andrés",
+  "apellidos": "Parra Vallejo",
+  "especialidad": "Neurología",
+  "sedeAsignada": "Centro",
+  "contacto": {
+    "telefono": "3154443322",
+    "correo": "andres.parra@healthsys.com"
+  },
+  "horarioAtencion": "Lunes, Miércoles y Viernes 10:00 - 18:00",
+  "activo": true
+},
+{
+  "_id": "MED-505",
+  "tarjetaProfesional": "TP-554321",
+  "nombres": "Esteban",
+  "apellidos": "Quito Ruiz",
+  "especialidad": "Cardiología",
+  "sedeAsignada": "Norte",
+  "contacto": {
+    "telefono": "3182221100",
+    "correo": "esteban.quito@healthsys.com"
+  },
+  "horarioAtencion": "Jueves y Viernes 07:00 - 17:00",
+  "activo": true
+}]

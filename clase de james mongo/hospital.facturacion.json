@@ -1,0 +1,120 @@
+[{
+  "_id": "FACT-9001",
+  "idPaciente": "PAC-1001",
+  "epsAsociada": "Sura",
+  "fechaEmision": "2026-11-04T11:00:00Z",
+  "conceptos": [
+    {
+      "descripcion": "Estancia hospitalaria (4 días)",
+      "cantidad": 4,
+      "valorUnitario": 250000,
+      "subtotal": 1000000
+    },
+    {
+      "descripcion": "Monitoreo cardíaco continuo",
+      "cantidad": 1,
+      "valorUnitario": 450000,
+      "subtotal": 450000
+    }
+  ],
+  "subtotal": 1450000,
+  "copago": 50000,
+  "totalFacturado": 1400000,
+  "estadoPago": "Pagado"
+},
+{
+  "_id": "FACT-9002",
+  "idPaciente": "PAC-1002",
+  "epsAsociada": "Sanitas",
+  "fechaEmision": "2026-11-10T12:00:00Z",
+  "conceptos": [
+    {
+      "descripcion": "Consulta de Pediatría",
+      "cantidad": 1,
+      "valorUnitario": 95000,
+      "subtotal": 95000
+    },
+    {
+      "descripcion": "Suministro de Ibuprofeno 400mg",
+      "cantidad": 1,
+      "valorUnitario": 15000,
+      "subtotal": 15000
+    }
+  ],
+  "subtotal": 110000,
+  "copago": 15000,
+  "totalFacturado": 95000,
+  "estadoPago": "Pendiente"
+},
+{
+  "_id": "FACT-9003",
+  "idPaciente": "PAC-1003",
+  "epsAsociada": "Sura",
+  "fechaEmision": "2026-11-12T09:30:00Z",
+  "conceptos": [
+    {
+      "descripcion": "Consulta de Medicina Interna",
+      "cantidad": 1,
+      "valorUnitario": 110000,
+      "subtotal": 110000
+    },
+    {
+      "descripcion": "Oxigenoterapia de urgencia",
+      "cantidad": 1,
+      "valorUnitario": 180000,
+      "subtotal": 180000
+    }
+  ],
+  "subtotal": 290000,
+  "copago": 30000,
+  "totalFacturado": 260000,
+  "estadoPago": "Pagado"
+},
+{
+  "_id": "FACT-9004",
+  "idPaciente": "PAC-1004",
+  "epsAsociada": "Nueva EPS",
+  "fechaEmision": "2026-11-07T17:00:00Z",
+  "conceptos": [
+    {
+      "descripcion": "Cateterismo cardíaco diagnóstico",
+      "cantidad": 1,
+      "valorUnitario": 1800000,
+      "subtotal": 1800000
+    },
+    {
+      "descripcion": "Derechos de sala de cirugía",
+      "cantidad": 1,
+      "valorUnitario": 850000,
+      "subtotal": 850000
+    }
+  ],
+  "subtotal": 2650000,
+  "copago": 120000,
+  "totalFacturado": 2530000,
+  "estadoPago": "Glosado"
+},
+{
+  "_id": "FACT-9005",
+  "idPaciente": "PAC-1005",
+  "epsAsociada": "Sura",
+  "fechaEmision": "2026-11-02T10:00:00Z",
+  "conceptos": [
+    {
+      "descripcion": "Resonancia magnética cerebral",
+      "cantidad": 1,
+      "valorUnitario": 950000,
+      "subtotal": 950000
+    },
+    {
+      "descripcion": "Estancia en habitación general (5 días)",
+      "cantidad": 5,
+      "valorUnitario": 230000,
+      "subtotal": 1150000
+    }
+  ],
+  "subtotal": 2100000,
+  "copago": 80000,
+  "totalFacturado": 2020000,
+  "estadoPago": "Pagado"
+}]

@@ -1,0 +1,107 @@
+[{
+  "_id": "HOSP-3001",
+  "idPaciente": "PAC-1001",
+  "idMedicoTratante": "MED-501",
+  "sede": "Norte",
+  "habitacion": "302-A",
+  "tipoIngreso": "Urgencias",
+  "fechaIngreso": "2026-11-01T14:20:00Z",
+  "fechaAlta": "2026-11-04T10:00:00Z",
+  "diagnosticoIngreso": "Crisis hipertensiva severa",
+  "estado": "De alta",
+  "procedimientos": [
+    {
+      "nombre": "Monitoreo cardíaco continuo",
+      "costo": 250000
+    },
+    {
+      "nombre": "Electrocardiograma",
+      "costo": 85000
+    }
+  ],
+  "costoTotalEstancia": 1450000
+},
+{
+  "_id": "HOSP-3002",
+  "idPaciente": "PAC-1003",
+  "idMedicoTratante": "MED-503",
+  "sede": "Centro",
+  "habitacion": "105-B",
+  "tipoIngreso": "Urgencias",
+  "fechaIngreso": "2026-11-08T22:15:00Z",
+  "fechaAlta": null,
+  "diagnosticoIngreso": "Neumonía adquirida en la comunidad",
+  "estado": "Internado",
+  "procedimientos": [
+    {
+      "nombre": "Oxigenoterapia",
+      "costo": 180000
+    },
+    {
+      "nombre": "Radiografía de tórax",
+      "costo": 120000
+    }
+  ],
+  "costoTotalEstancia": 980000
+},
+{
+  "_id": "HOSP-3003",
+  "idPaciente": "PAC-1004",
+  "idMedicoTratante": "MED-505",
+  "sede": "Norte",
+  "habitacion": "410-A",
+  "tipoIngreso": "Programado",
+  "fechaIngreso": "2026-11-05T07:00:00Z",
+  "fechaAlta": "2026-11-07T16:30:00Z",
+  "diagnosticoIngreso": "Cateterismo cardíaco diagnóstico",
+  "estado": "De alta",
+  "procedimientos": [
+    {
+      "nombre": "Cateterismo diagnóstico",
+      "costo": 1800000
+    }
+  ],
+  "costoTotalEstancia": 2650000
+},
+{
+  "_id": "HOSP-3004",
+  "idPaciente": "PAC-1002",
+  "idMedicoTratante": "MED-502",
+  "sede": "Sur",
+  "habitacion": "201-C",
+  "tipoIngreso": "Urgencias",
+  "fechaIngreso": "2026-11-10T03:40:00Z",
+  "fechaAlta": null,
+  "diagnosticoIngreso": "Deshidratación aguda por gastroenteritis",
+  "estado": "Internado",
+  "procedimientos": [
+    {
+      "nombre": "Hidratación intravenosa",
+      "costo": 110000
+    }
+  ],
+  "costoTotalEstancia": 520000
+},
+{
+  "_id": "HOSP-3005",
+  "idPaciente": "PAC-1005",
+  "idMedicoTratante": "MED-504",
+  "sede": "Centro",
+  "habitacion": "315-A",
+  "tipoIngreso": "Remisión",
+  "fechaIngreso": "2026-10-28T11:10:00Z",
+  "fechaAlta": "2026-11-02T09:15:00Z",
+  "diagnosticoIngreso": "Estudio neurológico por síncope",
+  "estado": "De alta",
+  "procedimientos": [
+    {
+      "nombre": "Resonancia magnética cerebral",
+      "costo": 950000
+    },
+    {
+      "nombre": "Electroencefalograma",
+      "costo": 220000
+    }
+  ],
+  "costoTotalEstancia": 2100000
+}]

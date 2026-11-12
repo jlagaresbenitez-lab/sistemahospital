@@ -1,0 +1,110 @@
+[{
+  "_id": "MED-001",
+  "nombreComercial": "Aspirina",
+  "principioActivo": "Ácido Acetilsalicílico",
+  "concentracion": "100mg",
+  "formaFarmaceutica": "Tableta",
+  "laboratorio": "Bayer",
+  "stockActual": 1200,
+  "precioUnitario": 500,
+  "requiereFormula": false
+},
+{
+  "_id": "MED-002",
+  "nombreComercial": "Losartán",
+  "principioActivo": "Losartán Potásico",
+  "concentracion": "50mg",
+  "formaFarmaceutica": "Tableta",
+  "laboratorio": "Mk",
+  "stockActual": 850,
+  "precioUnitario": 800,
+  "requiereFormula": true
+},
+{
+  "_id": "MED-003",
+  "nombreComercial": "Ibuprofeno",
+  "principioActivo": "Ibuprofeno",
+  "concentracion": "400mg",
+  "formaFarmaceutica": "Capsula blanda",
+  "laboratorio": "Genfar",
+  "stockActual": 2000,
+  "precioUnitario": 600,
+  "requiereFormula": false
+},
+{
+  "_id": "MED-004",
+  "nombreComercial": "Acetaminofén",
+  "principioActivo": "Paracetamol",
+  "concentracion": "500mg",
+  "formaFarmaceutica": "Tableta",
+  "laboratorio": "La Sante",
+  "stockActual": 3500,
+  "precioUnitario": 300,
+  "requiereFormula": false
+},
+{
+  "_id": "MED-005",
+  "nombreComercial": "Loratadina",
+  "principioActivo": "Loratadina",
+  "concentracion": "10mg",
+  "formaFarmaceutica": "Jarabe",
+  "laboratorio": "MK",
+  "stockActual": 400,
+  "precioUnitario": 12000,
+  "requiereFormula": false
+},
+{
+  "_id": "MED-006",
+  "nombreComercial": "Atorvastatina",
+  "principioActivo": "Atorvastatina calcica",
+  "concentracion": "20mg",
+  "formaFarmaceutica": "Tableta",
+  "laboratorio": "Pfizer",
+  "stockActual": 600,
+  "precioUnitario": 1500,
+  "requiereFormula": true
+},
+{
+  "_id": "MED-007",
+  "nombreComercial": "Pregabalina",
+  "principioActivo": "Pregabalina",
+  "concentracion": "75mg",
+  "formaFarmaceutica": "Cápsula",
+  "laboratorio": "Pfizer",
+  "stockActual": 300,
+  "precioUnitario": 2800,
+  "requiereFormula": true
+},
+{
+  "_id": "MED-008",
+  "nombreComercial": "Carbamazepina",
+  "principioActivo": "Carbamazepina",
+  "concentracion": "200mg",
+  "formaFarmaceutica": "Tableta",
+  "laboratorio": "Novartis",
+  "stockActual": 450,
+  "precioUnitario": 1100,
+  "requiereFormula": true
+},
+{
+  "_id": "MED-009",
+  "nombreComercial": "Amlodipino",
+  "principioActivo": "Amlodipino besilato",
+  "concentracion": "5mg",
+  "formaFarmaceutica": "Tableta",
+  "laboratorio": "Genfar",
+  "stockActual": 920,
+  "precioUnitario": 750,
+  "requiereFormula": true
+},
+{
+  "_id": "MED-010",
+  "nombreComercial": "Amoxicilina",
+  "principioActivo": "Amoxicilina trihidrato",
+  "concentracion": "500mg",
+  "formaFarmaceutica": "Cápsula",
+  "laboratorio": "Abbott",
+  "stockActual": 750,
+  "precioUnitario": 900,
+  "requiereFormula": true
+}]

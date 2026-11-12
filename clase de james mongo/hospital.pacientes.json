@@ -1,0 +1,164 @@
+[{
+  "_id": "PAC-1001",
+  "documento": "1038456789",
+  "tipoDocumento": "CC",
+  "nombres": "Carlos Alberto",
+  "apellidos": "Gómez Uribe",
+  "fechaNacimiento": "1991-05-14T00:00:00Z",
+  "genero": "Masculino",
+  "tipoSangre": "O+",
+  "eps": "Sura",
+  "contacto": {
+    "telefono": "3001234567",
+    "correo": "carlos.gomez@email.com",
+    "direccion": {
+      "calle": "Calle 50 # 43-20",
+      "ciudad": "Medellín",
+      "barrio": "El Poblado"
+    }
+  },
+  "contactoEmergencia": {
+    "nombre": "Lucía Gómez",
+    "parentesco": "Hermana",
+    "telefono": "3119876543"
+  },
+  "alergias": [
+    "Penicilina",
+    "Polen"
+  ],
+  "antecedentesMedicos": [
+    {
+      "condicion": "Hipertensión",
+      "diagnosticoAnio": 2022,
+      "estado": "Controlado"
+    }
+  ],
+  "activo": true,
+  "fechaRegistro": "2026-01-15T08:00:00Z"
+},
+{
+  "_id": "PAC-1002",
+  "documento": "1040555666",
+  "tipoDocumento": "CC",
+  "nombres": "Ana María",
+  "apellidos": "Torres Restrepo",
+  "fechaNacimiento": "1998-09-22T00:00:00Z",
+  "genero": "Femenino",
+  "tipoSangre": "A+",
+  "eps": "Sanitas",
+  "contacto": {
+    "telefono": "3109876543",
+    "correo": "ana.torres@email.com",
+    "direccion": {
+      "calle": "Carrera 70 # 32-15",
+      "ciudad": "Envigado",
+      "barrio": "Centro"
+    }
+  },
+  "contactoEmergencia": {
+    "nombre": "Pedro Torres",
+    "parentesco": "Padre",
+    "telefono": "3201112233"
+  },
+  "alergias": [],
+  "antecedentesMedicos": [],
+  "activo": true,
+  "fechaRegistro": "2026-02-10T09:30:00Z"
+},
+{
+  "_id": "PAC-1003",
+  "documento": "71234567",
+  "tipoDocumento": "CC",
+  "nombres": "Jorge Eliécer",
+  "apellidos": "Gaitán Henao",
+  "fechaNacimiento": "1976-12-03T00:00:00Z",
+  "genero": "Masculino",
+  "tipoSangre": "B+",
+  "eps": "Sura",
+  "contacto": {
+    "telefono": "3204567890",
+    "correo": "jorge.gaitan@email.com",
+    "direccion": {
+      "calle": "Circular 4 # 70-12",
+      "ciudad": "Medellín",
+      "barrio": "Laureles"
+    }
+  },
+  "contactoEmergencia": {
+    "nombre": "Martha Henao",
+    "parentesco": "Esposa",
+    "telefono": "3145556677"
+  },
+  "alergias": [
+    "Mariscos"
+  ],
+  "antecedentesMedicos": [
+    {
+      "condicion": "Asma leve",
+      "diagnosticoAnio": 2015,
+      "estado": "Tratamiento intermitente"
+    }
+  ],
+  "activo": true,
+  "fechaRegistro": "2026-03-01T10:15:00Z"
+},
+{
+  "_id": "PAC-1004",
+  "documento": "43222111",
+  "tipoDocumento": "CC",
+  "nombres": "Sofía",
+  "apellidos": "Vergara Campo",
+  "fechaNacimiento": "1984-07-10T00:00:00Z",
+  "genero": "Femenino",
+  "tipoSangre": "AB+",
+  "eps": "Nueva EPS",
+  "contacto": {
+    "telefono": "3156781234",
+    "correo": "sofia.vergara@email.com",
+    "direccion": {
+      "calle": "Calle 10 sur # 30-40",
+      "ciudad": "Medellín",
+      "barrio": "El Poblado"
+    }
+  },
+  "contactoEmergencia": {
+    "nombre": "Manolo Vergara",
+    "parentesco": "Hijo",
+    "telefono": "3189990011"
+  },
+  "alergias": [
+    "Ibuprofeno"
+  ],
+  "antecedentesMedicos": [],
+  "activo": true,
+  "fechaRegistro": "2026-04-12T14:00:00Z"
+},
+{
+  "_id": "PAC-1005",
+  "documento": "1025789456",
+  "tipoDocumento": "CC",
+  "nombres": "Mateo",
+  "apellidos": "Uribe Cano",
+  "fechaNacimiento": "2001-03-18T00:00:00Z",
+  "genero": "Masculino",
+  "tipoSangre": "O-",
+  "eps": "Sura",
+  "contacto": {
+    "telefono": "3112223344",
+    "correo": "mateo.uribe@email.com",
+    "direccion": {
+      "calle": "Calle 33 # 65-22",
+      "ciudad": "Medellín",
+      "barrio": "Conquistadores"
+    }
+  },
+  "contactoEmergencia": {
+    "nombre": "Clara Cano",
+    "parentesco": "Madre",
+    "telefono": "3123334455"
+  },
+  "alergias": [],
+  "antecedentesMedicos": [],
+  "activo": true,
+  "fechaRegistro": "2026-05-20T11:45:00Z"
+}]

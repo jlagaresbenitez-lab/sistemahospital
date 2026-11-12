@@ -1,0 +1,306 @@
+[{
+  "_id": "CITA-001",
+  "paciente": {
+    "nombre": "Carlos Gómez",
+    "edad": 35,
+    "telefono": "3001234567",
+    "eps": "Sura"
+  },
+  "medico": "Dra. Lucía Pérez",
+  "especialidad": "Medicina Interna",
+  "sede": "Norte",
+  "estado": "Atendida",
+  "costoConsulta": 120000,
+  "fechaCita": {
+    "$date": "2026-11-20T08:30:00.000Z"
+  },
+  "motivo": "Dolor torácico agudo",
+  "diagnostico": "Hipertensión controlada",
+  "tratamientos": [
+    {
+      "medicamento": "Aspirina",
+      "dosisDiaria": 3,
+      "duracionDias": 15,
+      "frecuencia": "Cada 8 horas"
+    }
+  ],
+  "observaciones": "Paciente con antecedentes de hipertensión."
+},
+{
+  "_id": "CITA-002",
+  "paciente": {
+    "nombre": "Ana María Torres",
+    "edad": 28,
+    "telefono": "3109876543",
+    "eps": "Sanitas"
+  },
+  "medico": "Dr. Carlos Restrepo",
+  "especialidad": "Pediatría",
+  "sede": "Sur",
+  "estado": "Programada",
+  "costoConsulta": 95000,
+  "fechaCita": {
+    "$date": "2026-11-21T10:00:00.000Z"
+  },
+  "motivo": "Control de crecimiento",
+  "diagnostico": "Sano",
+  "tratamientos": [
+    {
+      "medicamento": "Ibuprofeno",
+      "dosisDiaria": 1,
+      "duracionDias": 5,
+      "frecuencia": "Cada 8 horas"
+    }
+  ],
+  "observaciones": "Control de rutina pediátrico."
+},
+{
+  "_id": "CITA-003",
+  "paciente": {
+    "nombre": "Jorge E. Gaitán",
+    "edad": 50,
+    "telefono": "3204567890",
+    "eps": "Sura"
+  },
+  "medico": "Dra. Mariana Gómez",
+  "especialidad": "Medicina Interna",
+  "sede": "Centro",
+  "estado": "Atendida",
+  "costoConsulta": 110000,
+  "fechaCita": {
+    "$date": "2026-11-10T14:15:00.000Z"
+  },
+  "motivo": "Fiebre persistente",
+  "diagnostico": "Infección respiratoria",
+  "tratamientos": [
+    {
+      "medicamento": "Acetaminofén",
+      "dosisDiaria": 4,
+      "duracionDias": 12,
+      "frecuencia": "Cada 6 horas"
+    }
+  ],
+  "observaciones": "Infección respiratoria leve."
+},
+{
+  "_id": "CITA-004",
+  "paciente": {
+    "nombre": "Sofía Vergara",
+    "edad": 42,
+    "telefono": "3156781234",
+    "eps": "Nueva EPS"
+  },
+  "medico": "Dra. Lucía Pérez",
+  "especialidad": "Pediatría",
+  "sede": "Norte",
+  "estado": "Programada",
+  "costoConsulta": 150000,
+  "fechaCita": {
+    "$date": "2026-11-22T09:00:00.000Z"
+  },
+  "motivo": "Revisión general",
+  "diagnostico": "Pendiente",
+  "tratamientos": [
+    {
+      "medicamento": "Atorvastatina",
+      "dosisDiaria": 1,
+      "duracionDias": 30,
+      "frecuencia": "Noche"
+    }
+  ]
+},
+{
+  "_id": "CITA-006",
+  "paciente": {
+    "nombre": "Valeria Marín",
+    "edad": 31,
+    "telefono": "3123334455",
+    "eps": "Sura"
+  },
+  "medico": "Dr. Carlos Restrepo",
+  "especialidad": "Pediatría",
+  "sede": "Norte",
+  "estado": "Atendida",
+  "costoConsulta": 95000,
+  "fechaCita": {
+    "$date": "2026-11-15T15:00:00.000Z"
+  },
+  "motivo": "Control anual",
+  "diagnostico": null,
+  "tratamientos": [
+    {
+      "medicamento": "Vitamina C",
+      "dosisDiaria": 1,
+      "duracionDias": 10,
+      "frecuencia": "Diaria"
+    }
+  ],
+  "observaciones": "Primera revisión."
+},
+{
+  "_id": "CITA-007",
+  "paciente": {
+    "nombre": "Felipe Ramírez",
+    "edad": 60,
+    "telefono": "3134445566",
+    "eps": "Salud Total"
+  },
+  "medico": "Dr. Andrés Parra",
+  "especialidad": "Neurología",
+  "sede": "Centro",
+  "estado": "Programada",
+  "costoConsulta": 200000,
+  "fechaCita": {
+    "$date": "2026-11-26T08:00:00.000Z"
+  },
+  "motivo": "Dolor neuropático",
+  "diagnostico": "Neuropatía",
+  "tratamientos": [
+    {
+      "medicamento": "Pregabalina",
+      "dosisDiaria": 2,
+      "duracionDias": 30,
+      "frecuencia": "Cada 12h"
+    }
+  ],
+  "observaciones": "Dolor crónico."
+},
+{
+  "_id": "CITA-008",
+  "paciente": {
+    "nombre": "Camila Osorio",
+    "edad": 19,
+    "telefono": "3145556677",
+    "eps": "Sura"
+  },
+  "medico": "Dra. Mariana Gómez",
+  "especialidad": "Medicina Interna",
+  "sede": "Sur",
+  "estado": "Atendida",
+  "costoConsulta": 90000,
+  "fechaCita": {
+    "$date": "2026-11-05T09:15:00.000Z"
+  },
+  "motivo": "Trauma leve",
+  "diagnostico": "Esguince",
+  "tratamientos": [
+    {
+      "medicamento": "Ibuprofeno",
+      "dosisDiaria": 3,
+      "duracionDias": 7,
+      "frecuencia": "Cada 8h"
+    }
+  ],
+  "observaciones": "Esguince leve."
+},
+{
+  "_id": "CITA-009",
+  "paciente": {
+    "nombre": "Esteban Cardona",
+    "edad": 45,
+    "telefono": "3167778899",
+    "eps": "Sanitas"
+  },
+  "medico": "Dr. Andrés Parra",
+  "especialidad": "Neurología",
+  "sede": "Norte",
+  "estado": "Programada",
+  "costoConsulta": 200000,
+  "fechaCita": {
+    "$date": "2026-11-27T16:00:00.000Z"
+  },
+  "motivo": "Cefalea",
+  "diagnostico": "Migraña",
+  "tratamientos": [
+    {
+      "medicamento": "Carbamazepina",
+      "dosisDiaria": 2,
+      "duracionDias": 14,
+      "frecuencia": "Cada 12h"
+    }
+  ],
+  "observaciones": "Migraña recurrente."
+},
+{
+  "_id": "CITA-010",
+  "paciente": {
+    "nombre": "Lucia Mejia",
+    "edad": 38,
+    "telefono": "3178889900",
+    "eps": "Sura"
+  },
+  "medico": "Dra. Lucía Pérez",
+  "especialidad": "Pediatría",
+  "sede": "Centro",
+  "estado": "Programada",
+  "costoConsulta": 130000,
+  "fechaCita": {
+    "$date": "2026-11-28T11:00:00.000Z"
+  },
+  "motivo": "Chequeo familiar",
+  "diagnostico": "Sano",
+  "tratamientos": [
+    {
+      "medicamento": "Amlodipino",
+      "dosisDiaria": 1,
+      "duracionDias": 30,
+      "frecuencia": "Diaria"
+    }
+  ],
+  "observaciones": "Control arterial."
+},
+{
+  "_id": "CITA-011",
+  "paciente": {
+    "nombre": "David Ospina",
+    "edad": 33,
+    "telefono": "3189990011",
+    "eps": "Sura"
+  },
+  "medico": "Dr. Carlos Restrepo",
+  "especialidad": "Medicina Interna",
+  "sede": "Sur",
+  "estado": "Atendida",
+  "costoConsulta": 95000,
+  "fechaCita": {
+    "$date": "2026-11-01T07:30:00.000Z"
+  },
+  "motivo": "Infección garganta",
+  "diagnostico": null,
+  "tratamientos": [
+    {
+      "medicamento": "Amoxicilina",
+      "dosisDiaria": 3,
+      "duracionDias": 7,
+      "frecuencia": "Cada 8h"
+    }
+  ]
+},
+{
+  "_id": "CITA-012",
+  "paciente": {
+    "nombre": "Catalina Usme",
+    "edad": 36,
+    "telefono": "3190001122",
+    "eps": "Nueva EPS"
+  },
+  "medico": "Dra. Lucía Pérez",
+  "especialidad": "Pediatría",
+  "sede": "Norte",
+  "estado": "Programada",
+  "costoConsulta": 85000,
+  "fechaCita": {
+    "$date": "2026-11-29T13:45:00.000Z"
+  },
+  "motivo": "Dolor estomacal",
+  "diagnostico": "Gastritis",
+  "tratamientos": [
+    {
+      "medicamento": "Omeprazol",
+      "dosisDiaria": 1,
+      "duracionDias": 14,
+      "frecuencia": "Ayunas"
+    }
+  ],
+  "observaciones": "Gastritis leve."
+}]

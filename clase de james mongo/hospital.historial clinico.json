@@ -1,0 +1,80 @@
+[{
+  "_id": "HC-8001",
+  "idPaciente": "PAC-1001",
+  "idMedico": "MED-501",
+  "fechaApertura": "2026-01-15T08:30:00Z",
+  "motivoConsulta": "Dolor torácico recurrente y fatiga",
+  "diagnosticoPrincipal": "Hipertensión arterial esencial",
+  "signosVitales": {
+    "presionArterial": "145/95",
+    "frecuenciaCardiaca": 88,
+    "temperatura": 36.5,
+    "pesoKg": 78.5
+  },
+  "evolucionMedica": "Paciente refiere episodios de mareo matutino. Se ajusta tratamiento antihipertensivo y se solicita perfil lipídico.",
+  "estado": "Activa"
+},
+{
+  "_id": "HC-8002",
+  "idPaciente": "PAC-1002",
+  "idMedico": "MED-502",
+  "fechaApertura": "2026-02-10T10:00:00Z",
+  "motivoConsulta": "Control de crecimiento y desarrollo",
+  "diagnosticoPrincipal": "Paciente sano / desarrollo normal",
+  "signosVitales": {
+    "presionArterial": "110/70",
+    "frecuenciaCardiaca": 76,
+    "temperatura": 36.2,
+    "pesoKg": 60
+  },
+  "evolucionMedica": "Examen físico sin alteraciones. Curvas de crecimiento acordes a la edad. Se aconseja continuar hábitos saludables.",
+  "estado": "Activa"
+},
+{
+  "_id": "HC-8003",
+  "idPaciente": "PAC-1003",
+  "idMedico": "MED-503",
+  "fechaApertura": "2026-03-01T14:15:00Z",
+  "motivoConsulta": "Tos persistente y dificultad respiratoria leve",
+  "diagnosticoPrincipal": "Bronquitis aguda leve",
+  "signosVitales": {
+    "presionArterial": "130/82",
+    "frecuenciaCardiaca": 92,
+    "temperatura": 37.4,
+    "pesoKg": 82
+  },
+  "evolucionMedica": "Se auscultan sibilancias difusas. Se formula broncodilatador inhalado y reposo por 3 días.",
+  "estado": "Activa"
+},
+{
+  "_id": "HC-8004",
+  "idPaciente": "PAC-1004",
+  "idMedico": "MED-505",
+  "fechaApertura": "2026-04-12T09:00:00Z",
+  "motivoConsulta": "Chequeo cardiovascular preventivo",
+  "diagnosticoPrincipal": "Riesgo cardiovascular bajo",
+  "signosVitales": {
+    "presionArterial": "120/80",
+    "frecuenciaCardiaca": 72,
+    "temperatura": 36.6,
+    "pesoKg": 65
+  },
+  "evolucionMedica": "Electrocardiograma sin signos de isquemia. Paraclínicos dentro de rangos normales.",
+  "estado": "Activa"
+},
+{
+  "_id": "HC-8005",
+  "idPaciente": "PAC-1005",
+  "idMedico": "MED-504",
+  "fechaApertura": "2026-05-20T11:00:00Z",
+  "motivoConsulta": "Cefaleas frecuentes en región frontal",
+  "diagnosticoPrincipal": "Cefalea tensional crónica",
+  "signosVitales": {
+    "presionArterial": "118/76",
+    "frecuenciaCardiaca": 75,
+    "temperatura": 36.4,
+    "pesoKg": 70
+  },
+  "evolucionMedica": "Refiere estrés laboral intenso. Se recomienda manejo analgésico sintomático y pausas activas.",
+  "estado": "Activa"
+}]
